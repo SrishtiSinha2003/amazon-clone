@@ -1,2 +1,2 @@
-# amazon-clone
-Made with HTML,CSS
+# AMAZON CLONE
+Simple yet elegant **Amazon** **clone** made with HTML and CSS.
